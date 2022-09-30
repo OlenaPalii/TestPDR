@@ -1,0 +1,15 @@
+/Users/mac/Projects/TestPDR/TestPDR/bin/Debug/net6.0/TestPDR
+/Users/mac/Projects/TestPDR/TestPDR/bin/Debug/net6.0/TestPDR.deps.json
+/Users/mac/Projects/TestPDR/TestPDR/bin/Debug/net6.0/TestPDR.runtimeconfig.json
+/Users/mac/Projects/TestPDR/TestPDR/bin/Debug/net6.0/TestPDR.dll
+/Users/mac/Projects/TestPDR/TestPDR/bin/Debug/net6.0/TestPDR.pdb
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.csproj.AssemblyReference.cache
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.AssemblyInfoInputs.cache
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.AssemblyInfo.cs
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.dll
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/refint/TestPDR.dll
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.pdb
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/TestPDR.genruntimeconfig.cache
+/Users/mac/Projects/TestPDR/TestPDR/obj/Debug/net6.0/ref/TestPDR.dll
